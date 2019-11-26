@@ -1,0 +1,19 @@
+{
+    "name": "pxt-SGBotic-IoT",
+    "version": "0.1",
+    "description": "Makdecode extension for ThingSpeak IoT",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "thingspeak.ts",
+        "base.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
